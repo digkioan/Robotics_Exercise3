@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "EXERCISE_3_ROBOTICKS",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "EXERCISE_3_ROBOTICKS::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-EXERCISE_3_ROBOTICKS-Debug-067dc800be3d9d640d89.json",
+					"name" : "EXERCISE_3_ROBOTICKS",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Ioannis/CLionProjects/EXERCISE_3_ROBOTICKS/cmake-build-debug",
+		"source" : "C:/Users/Ioannis/CLionProjects/EXERCISE_3_ROBOTICKS"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
